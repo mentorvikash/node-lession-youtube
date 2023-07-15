@@ -1,2 +1,2 @@
-// require("./moduleTut");
+// require("./paths");
 require("./joints");
