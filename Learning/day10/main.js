@@ -1,2 +1,3 @@
 // require("./streams");
-require("./fsModule");
+// require("./fsModule");
+require("./fspromise");
